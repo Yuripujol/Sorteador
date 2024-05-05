@@ -1,7 +1,7 @@
 <h1> Sorteador</h1>
 <br>
 
-<p>Esse site tem o objetivo de sortear um número aleatório entre um número menor a um número maior</p>
+<p>Esse site tem o objetivo de sortear um número aleatório entre um número menor e um número maior</p>
 <br>
 <h2>Veja o passo a passo abaixo:</h2>
 <br>
@@ -20,5 +20,5 @@
 <br>
 <h2>Acesse o site no link a seguir:</h2>
 <br>
-<a href="https://yuripujol.github.io/Conversor-De-Moedas/">Conversor De Moedas</a>
+<a href="https://yuripujol.github.io/Sorteador/">Sorteador</a>
 
